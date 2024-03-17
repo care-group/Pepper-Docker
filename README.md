@@ -1,5 +1,6 @@
 # Pepper-Docker
 New Docker Image to connect and control pepper robot with pepper python SDK included.
+By Carol Santhosh P
 
 ## Summary
 This document is about the project using Pepper Robot ( a semi-humanoid robot), to connect and control using IoT services.
@@ -36,3 +37,6 @@ To run Docker
 
     docker run -p 5000:5000 carolsanthosh/lara-pepper:v4
 View it from https://localhost:5000/
+
+
+Refer https://github.com/carolsanthosh/Pepper-Robot.git on how to use it
