@@ -39,4 +39,4 @@ To run Docker
 View it from https://localhost:5000/
 
 
-Refer https://github.com/carolsanthosh/Pepper-Robot.git on how to use it
+Refer https://github.com/carolsanthosh/Pepper-Robot.git for instructions to use
